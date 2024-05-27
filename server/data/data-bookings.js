@@ -1,0 +1,68 @@
+const bookings = [
+  {
+    id: 1,
+    numberOfPersons: 2,
+    startDate: '2024-04-25',
+    startTime: '10:00',
+    endDate: '2024-04-28',
+    endTime: '12:00',
+  },
+  {
+    id: 2,
+    numberOfPersons: 4,
+    startDate: '2024-04-27',
+    startTime: '11:00',
+    endDate: '2024-04-29',
+    endTime: '13:00',
+  },
+  {
+    id: 3,
+    numberOfPersons: 3,
+    startDate: '2024-05-27',
+    startTime: '12:00',
+    endDate: '2024-05-27',
+    endTime: '14:00',
+  },
+  {
+    id: 4,
+    numberOfPersons: 5,
+    startDate: '2024-05-28',
+    startTime: '13:00',
+    endDate: '2024-05-28',
+    endTime: '15:00',
+  },
+  {
+    id: 5,
+    numberOfPersons: 2,
+    startDate: '2024-05-29',
+    startTime: '14:00',
+    endDate: '2024-05-29',
+    endTime: '16:00',
+  },
+  {
+    id: 6,
+    numberOfPersons: 3,
+    startDate: '2024-05-30',
+    startTime: '15:00',
+    endDate: '2024-05-30',
+    endTime: '17:00',
+  },
+  {
+    id: 7,
+    numberOfPersons: 4,
+    startDate: '2024-05-31',
+    startTime: '16:00',
+    endDate: '2024-05-31',
+    endTime: '18:00',
+  },
+  {
+    id: 8,
+    numberOfPersons: 6,
+    startDate: '2024-06-01',
+    startTime: '17:00',
+    endDate: '2024-06-01',
+    endTime: '19:00',
+  },
+];
+
+module.exports = { bookings };

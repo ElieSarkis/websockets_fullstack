@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: start;
+  font-weight: bold;
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.navbar-button {
+  background-color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
